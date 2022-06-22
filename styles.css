@@ -36,6 +36,10 @@ html {
   border-radius: 0 0 3px 3px;
 }
 
+.key:hover {
+  background-color: aqua;
+}
+
 .key.black--key::after {
   background-color: #1b1a18;
   content: "";
